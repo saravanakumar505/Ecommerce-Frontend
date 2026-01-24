@@ -7,7 +7,7 @@ const Home = () => {
 
   // ✅ Correct slide array (no JSX inside)
  const slides = [
-  "/images/nike.png",
+  "/ecommerce-frontend/public/images/nike.png",
   "/images/skechers_sale.jpg",
   "/images/nike_air_force.jpg"
 ];
