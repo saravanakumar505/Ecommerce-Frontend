@@ -6,11 +6,11 @@ const Home = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   // ✅ Correct slide array (no JSX inside)
-  const slides = [
-    "/src/assets/nike.png",
-    "/src/assets/skechers_sale.jpg",
-    "/src/assets/nike_air_force.jpg"
-  ];
+ const slides = [
+  "/images/nike.png",
+  "/images/skechers_sale.jpg",
+  "/images/nike_air_force.jpg"
+];
 
   const totalSlides = slides.length;
 
