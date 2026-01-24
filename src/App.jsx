@@ -18,7 +18,7 @@ import Wishlist from "./pages/Wishlist";
 import MyOrders from "./pages/MyOrders";
 
 // Admin Components
-import ProductList from "./components/admin/ProductList";
+import ProductList from "./components/admin/productList";
 import AddProduct from "./components/admin/AddProduct";
 import OrderList from "./components/admin/OrderList";
 import OrderDetails from "./components/admin/OrderDetails";
